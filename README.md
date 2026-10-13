@@ -3,6 +3,7 @@
 这是 **Maximum Likelihood Evidential Reasoning（极大似然证据推理，MAKER）** 的最小实现，
 仅保留论文核心框架，用于入门学习与二次开发。
 
+如果你在研究中使用了本代码，请引用：
 > 对应论文：Yang, J.-B., & Xu, D.-L. (2025). *Maximum Likelihood Evidential Reasoning*. Artificial Intelligence, 340, 104289.
 
 代码实现：hepore与deepseek v4 pro
