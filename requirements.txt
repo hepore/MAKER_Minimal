@@ -1,0 +1,3 @@
+numpy>=1.21
+scikit-learn>=1.0   # 仅 demo.py 加载 Iris 数据需要
+
